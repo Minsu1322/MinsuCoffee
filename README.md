@@ -1,1 +1,1 @@
-Test(https://minsucoffee.netlify.app/)
+[Test](https://minsucoffee.netlify.app/)
